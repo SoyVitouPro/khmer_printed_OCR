@@ -1,0 +1,10 @@
+protobuf
+tiktoken
+torch
+transformers
+jupyter
+ipywidgets
+pycairo
+PyGObject
+numpy
+matplotlib
